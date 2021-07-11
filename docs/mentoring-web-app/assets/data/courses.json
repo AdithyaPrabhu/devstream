@@ -1,0 +1,35 @@
+[
+    {
+        "name": "Powerful Storytelling Today: Strategies for Crafting Great Content",
+        "rating": 4.5,
+        "enrolled": 10,
+        "duration": "12 months",
+        "price": 100,
+        "slashedPrice": 90,
+        "mentorName": "Adithya Prabhu",
+        "mentorBio": "Drink Beer, fuck fear",
+        "courseImageUrl": "https://miro.medium.com/fit/c/262/262/0*isGExsIy4pldIM1k.jpg"
+    },
+    {
+        "name": "Lorem ipsum",
+        "rating": 2,
+        "enrolled": 1000,
+        "duration": "12 months",
+        "price": 10000,
+        "slashedPrice": 90000,
+        "mentorName": "Gilbert",
+        "mentorBio": "Design Expert!",
+        "courseImageUrl": "../../../assets/images/man-shopping-online.png"
+    },
+    {
+        "name": "Powerful Storytelling Today: Strategies for Crafting Great Content--- unusually long title-- just to check if allignment is broken",
+        "rating": 0,
+        "enrolled": 1,
+        "duration": "12 months",
+        "price": 1,
+        "slashedPrice": 9,
+        "mentorName": "Linjith K",
+        "mentorBio": " beer expert",
+        "courseImageUrl": "../../../assets/images/man-shopping-online.png"
+    }
+]

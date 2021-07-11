@@ -1,0 +1,40 @@
+[
+    {
+      "name": "Adithya Prabhu-123",
+      "bio": "Understands JS",
+      "imgUrl": "https://avatars.services.sap.com/images/adithya.prabhu.png",
+      "socialMedia": [{
+        "name": "Twitter",
+        "url": "https://twitter.com/Adi44886357"
+      }]
+    },
+    {
+      "name": "linjith",
+      "bio": "Architect",
+      "imgUrl": "https://miro.medium.com/fit/c/262/262/0*isGExsIy4pldIM1k.jpg",
+      "socialMedia": [{
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/adithya-prabhu/"
+      }, {
+        "name": "Twitter",
+        "url": "https://twitter.com/Adi44886357"
+      }]
+    },
+    {
+      "name": "Adithya Prabhu3",
+      "bio": "Understands JS",
+      "imgUrl": "../../assets/images/mentor-pic.png",
+      "socialMedia": [{
+        "name": "Twitter",
+        "url": "https://twitter.com/Adi44886357"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/adithya-prabhu/"
+      },
+      {
+        "name": "BlogPost",
+        "url": "../../assets/images/blog.svg"
+      }]
+    }
+  ]

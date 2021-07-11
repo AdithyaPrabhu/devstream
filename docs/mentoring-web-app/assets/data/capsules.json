@@ -1,0 +1,74 @@
+[
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 1.53,
+    "totalRatings": 120,
+    "author": "Linjith K",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "10 mins",
+    "imgUrl": "/assets/images/mockCapsule.png"
+  },
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 3.9,
+    "totalRatings": 130,
+    "author": "Linjith K",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "11 mins",
+    "imgUrl": "/assets/images/mockCapsule1.png"
+  },
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 1.3,
+    "totalRatings": 140,
+    "author": "Linjith ",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "1 mins",
+    "imgUrl": "/assets/images/coder.png"
+  },
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 1.53,
+    "totalRatings": 120,
+    "author": "Linjith K",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "10 mins",
+    "imgUrl": "/assets/images/mockCapsule1.png"
+  },
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 3.9,
+    "totalRatings": 130,
+    "author": "Linjith ",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "11 mins",
+    "imgUrl": "/assets/images/coder.png"
+  },
+  {
+    "title": "So, You Want to Be a Coder???",
+    "averageRating": 1.3,
+    "totalRatings": 140,
+    "author": "Linjith K",
+    "date": "12 jan 2021",
+    "tags": ["java", "AI", "cloud"],
+    "articleBrief": "Sepsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+    "articleUrl": "https://www.linkedin.com/in/adithya-prabhu/",
+    "duration": "1 mins",
+    "imgUrl": "/assets/images/mockCapsule.png"
+  }
+]
